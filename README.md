@@ -1,4 +1,4 @@
-# 📚 Books Online Scraper
+# Books Online
 
 > Pipeline ETL pour extraire, transformer et charger les données de **books.toscrape.com**
 
