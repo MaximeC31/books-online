@@ -1,6 +1,6 @@
 # Books Online
 
-> Pipeline ETL pour extraire, transformer et charger les données de **books.toscrape.com**
+> Pipeline Python de collecte de livres avec BeautifulSoup, export CSV par catégorie et téléchargement des couvertures.
 
 ---
 
